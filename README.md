@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me:
-@Phone: +201128512087
-@Gmail: amrkedra.1993@gmail.com
-@facebook :https://www.facebook.com/2draa
-@twitter:https://twitter.com/AmrKedra
-@Linkedin:https://www.linkedin.com/in/amr-kedra-2729bb123/
+- @Phone: +201128512087
+- @Gmail: amrkedra.1993@gmail.com
+- @facebook :https://www.facebook.com/2draa
+- @twitter:https://twitter.com/AmrKedra
+- @Linkedin:https://www.linkedin.com/in/amr-kedra-2729bb123/
