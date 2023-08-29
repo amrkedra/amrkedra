@@ -2,8 +2,8 @@
 
 <center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
 
-- 🔭 I’m currently learning to be a software engineer
-- 🌱 I’m currently learning Backend developing
+- 🔭 I’m currently learning to be a Embeded Software Engineer
+- 🌱 I’m currently learning Embeded Software with C
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Anything
