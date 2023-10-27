@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DA1F7&width=435&lines=Hi%2C+I'm+Amr+%2C+a+DevOps+Engineer.;i'm+in+a+continues+jorney+to+learn.)](https://git.io/typing-svg)
 
-<center><img src="https://media.giphy.com/media/GwtfUx2P2HnvByDZdg/giphy.gif"/></center>
 
 - 🔭 I’m currently a DevOps Engineer
 - 🌱 I’m currently learning Cloud Solutions
