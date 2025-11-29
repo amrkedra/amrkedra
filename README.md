@@ -2,13 +2,13 @@
 
 
 - 🔭 I’m currently a DevOps Engineer
-- 🌱 I’m currently learning Cloud Solutions
+- 🌱 I’m currently learning Solutions Architecture
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Anything
 - 📫 How to reach me:
-- @Phone: +4917645341578
+- @Phone: +4917668728442
 - @Gmail: amrkedra.1993@gmail.com
+- @Linkedin:https://www.linkedin.com/in/amr-kedra-2729bb123/
 - @facebook :https://www.facebook.com/2draa
 - @twitter:https://twitter.com/AmrKedra
-- @Linkedin:https://www.linkedin.com/in/amr-kedra-2729bb123/
